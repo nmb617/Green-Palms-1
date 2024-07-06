@@ -11,7 +11,7 @@ sections:
     text: "At Green Palms Inc., we're masters of the marketing universe, turning paid ads and SEO into powerful tools that grow your business. We even have a knack for offline marketing and offer insightful consultations to elevate your strategy. Let us handle the marketing hustle while you relax under the green palms, dreaming of your next big success—because we've got it covered! \U0001F334\n"
     actions: []
     media:
-      url: /images/main-hero.svg
+      url: /images/greenpalmsmain.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
