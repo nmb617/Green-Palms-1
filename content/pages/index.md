@@ -37,7 +37,7 @@ sections:
     subtitle: ''
     items:
       - title: About Us
-        subtitle: Faster
+        subtitle: ''
         text: "We are Green Palms. We believe in the superpowers of marketing to take businesses to the next level. (And we believe in sipping piña coladas underneath palm trees.)\n\nMarketing is the cornerstone of great businesses. It is how businesses grow and are able to reach new people who need to hear a business’s unique message.\_\n\nAll businesses have the responsibility to do their utmost to get as many people to benefit from their product or service as they can. Marketing is the conduit for how businesses can make the world a better place. It is our job to get more businesses there.\n\n\n"
         actions: []
         colors: bg-neutralAlt-fg-dark
