@@ -46,7 +46,7 @@ sections:
           power of paid ads or optimizing your presence through SEO, our goal is
           to elevate your brand and drive measurable results.
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
