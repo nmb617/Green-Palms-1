@@ -39,12 +39,13 @@ sections:
       - type: FeaturedItem
         title: Our Mission
         tagline: ''
-        subtitle: ''
-        text: >
-          At Green Palms, we specialize in crafting high-impact marketing
-          strategies that transform businesses. Whether it's leveraging the
-          power of paid ads or optimizing your presence through SEO, our goal is
-          to elevate your brand and drive measurable results.
+        subtitle: Increase Your Profits
+        text: >+
+          ###### *At Green Palms, we specialize in crafting high-impact
+          marketing strategies that transform businesses. Whether it's
+          leveraging the power of paid ads or optimizing your presence through
+          SEO, our goal is to elevate your brand and drive measurable results.*
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
@@ -57,10 +58,10 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Relax & Thrive
+        title: Our Philosophy
         tagline: ''
-        subtitle: ''
-        text: "With Green Palms, you can relax and let us worry about the marketing. Picture yourself sitting under the palm trees, enjoying the success of your thriving business, while we handle everything from paid ads to SEO, and even offline marketing initiatives. We’re here to make your marketing journey as smooth and effective as possible. \U0001F334\n"
+        subtitle: Relax & Thrive
+        text: "###### *With Green Palms, you can relax and let us worry about the marketing. Picture yourself sitting under the palm trees, enjoying the success of your thriving business, while we handle everything from paid ads to SEO, and even offline marketing initiatives. We’re here to make your marketing journey as smooth and effective as possible. \U0001F334*\n\n"
         image:
           type: ImageBlock
           altText: Placeholder text
