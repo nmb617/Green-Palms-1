@@ -146,7 +146,7 @@ sections:
       type: TitleBlock
     subtitle: Featured items section subtitle
     items:
-      - title: Paid Ads
+      - title: Paid Traffic
         tagline: ''
         subtitle: ''
         text: >
