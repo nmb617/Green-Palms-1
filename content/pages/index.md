@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'We Are Green Palms, Inc.'
+      text: Hello! We Are Green Palms
       color: text-primary
       type: TitleBlock
     subtitle: Marketing Experts For Your Business
