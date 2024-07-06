@@ -138,7 +138,7 @@ sections:
       opacity: 100
       url: /images/greenpalmsmain.png
   - title:
-      text: Our Features
+      text: Our Specialties
       color: text-primary
       styles:
         self:
