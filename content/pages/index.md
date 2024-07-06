@@ -38,7 +38,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: >+
           We are Green Palms. We believe in the superpowers of marketing to take
