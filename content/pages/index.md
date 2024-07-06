@@ -37,6 +37,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/greenpalmsmain.png
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
