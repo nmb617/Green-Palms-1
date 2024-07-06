@@ -57,27 +57,6 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Expertise and Services
-        tagline: ''
-        subtitle: ''
-        text: >
-          Our expertise spans across digital and offline marketing channels. We
-          provide comprehensive marketing consultations, helping you navigate
-          the complexities of the marketing landscape with ease and confidence.
-          From initial strategy to execution, we ensure every aspect of your
-          campaign is tailored to your unique needs.
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-      - type: FeaturedItem
         title: Relax & Thrive
         tagline: ''
         subtitle: ''
