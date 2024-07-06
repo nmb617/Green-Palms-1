@@ -172,7 +172,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: SEO
+      - title: SEO(Search Engine Optimization)
         tagline: ''
         subtitle: ''
         text: >
