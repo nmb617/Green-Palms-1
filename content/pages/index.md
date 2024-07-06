@@ -28,7 +28,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       text: About Us
-      color: text-dark
+      color: text-neutral
       styles:
         self:
           textAlign: center
