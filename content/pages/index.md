@@ -172,7 +172,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Search Engine Optimization
+      - title: Organic Traffic
         tagline: ''
         subtitle: ''
         text: >
