@@ -72,8 +72,9 @@ sections:
         title: ''
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Follow the tutorial to build your first Netlify Create
+          site.![](/images/greenpalmsmain.png)
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
