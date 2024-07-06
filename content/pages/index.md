@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: 'We Are Green Palms, Inc.'
-      color: text-dark
+      color: text-neutral
       type: TitleBlock
     subtitle: Marketing Experts For Your Business
     text: ''
