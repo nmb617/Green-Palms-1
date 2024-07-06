@@ -175,8 +175,11 @@ sections:
       - title: Feature Item Two
         tagline: ''
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          Enhance your online visibility and drive organic traffic with our
+          expert SEO services. We optimize your website to rank higher in search
+          engine results, ensuring your business stands out and attracts the
+          right audience.
         image:
           url: /images/seo1.png
           altText: Placeholder image
