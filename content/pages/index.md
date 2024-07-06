@@ -10,11 +10,6 @@ sections:
     subtitle: Marketing Experts For Your Business
     text: ''
     actions: []
-    media:
-      url: /images/greenpalmsmain.png
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
     badge:
       label: ''
       color: text-primary
