@@ -148,7 +148,7 @@ sections:
     items:
       - title: Paid Ads
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           Boost your business with our expert paid ad services across multiple
           platforms. We specialize in Facebook, Search (Google & Bing), Native,
