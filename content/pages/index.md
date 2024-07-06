@@ -144,7 +144,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: 'We can help, no matter what your business need is.'
     items:
       - title: Paid Traffic
         tagline: ''
