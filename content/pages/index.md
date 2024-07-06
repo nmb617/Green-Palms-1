@@ -200,7 +200,7 @@ sections:
         type: FeaturedItem
       - title: Marketing Consulting
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
