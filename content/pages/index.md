@@ -37,7 +37,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: About Us
+        title: ''
         tagline: This is the tagline
         subtitle: ''
         text: >+
