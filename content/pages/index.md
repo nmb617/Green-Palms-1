@@ -61,7 +61,7 @@ sections:
         title: Our Philosophy
         tagline: ''
         subtitle: Relax & Thrive
-        text: "With Green Palms, you can relax and let us worry about the marketing. Picture yourself sitting under the palm trees, enjoying the success of your thriving business, while we handle everything from paid ads to SEO, and even offline marketing initiatives. We’re here to make your marketing journey as smooth and effective as possible. \U0001F334\n"
+        text: "###### *With Green Palms, you can relax and let us worry about the marketing. Picture yourself sitting under the palm trees, enjoying the success of your thriving business, while we handle everything from paid ads to SEO, and even offline marketing initiatives. We’re here to make your marketing journey as smooth and effective as possible. \U0001F334*\n\n"
         image:
           type: ImageBlock
           altText: Placeholder text
