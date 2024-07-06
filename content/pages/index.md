@@ -59,7 +59,7 @@ sections:
       - type: FeaturedItem
         title: Why Choose Us?
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: "With Green Palms Inc., you can relax and let us worry about the marketing. Picture yourself sitting under the green palms, enjoying the success of your thriving business, while we handle everything from paid ads to SEO, and even offline marketing initiatives. We’re here to make your marketing journey as smooth and effective as possible. \U0001F334\n"
         image:
           type: ImageBlock
