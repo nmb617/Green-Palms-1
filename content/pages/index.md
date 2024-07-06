@@ -41,7 +41,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          At Green Palms Inc., we specialize in crafting high-impact marketing
+          At Green Palms, we specialize in crafting high-impact marketing
           strategies that transform businesses. Whether it's leveraging the
           power of paid ads or optimizing your presence through SEO, our goal is
           to elevate your brand and drive measurable results.
