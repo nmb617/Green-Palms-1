@@ -202,8 +202,10 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+          Unlock your business potential with our comprehensive marketing
+          consulting services. We provide strategic insights and tailored
+          solutions to optimize your marketing efforts, driving growth and
+          achieving your business goals.
         image:
           url: /images/consulting1.png
           altText: Placeholder image
