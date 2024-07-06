@@ -1,10 +1,10 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/gplogo(1).png",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "",
     "primaryLinks": {
         "title": "Product",
         "links": [
@@ -59,32 +59,7 @@
         ],
         "type": "FooterLinksGroup"
     },
-    "socialLinks": [
-        {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
-            "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [
         {
             "label": "Terms",
