@@ -174,7 +174,7 @@ sections:
         type: FeaturedItem
       - title: Feature Item Two
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           Enhance your online visibility and drive organic traffic with our
           expert SEO services. We optimize your website to rank higher in search
