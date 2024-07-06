@@ -37,7 +37,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: ''
+        title: Our Mission
         tagline: ''
         subtitle: ''
         text: >
