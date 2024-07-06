@@ -39,7 +39,7 @@ sections:
       - type: FeaturedItem
         title: About Us
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >+
           We are Green Palms. We believe in the superpowers of marketing to take
           businesses to the next level. (And we believe in sipping piña coladas
