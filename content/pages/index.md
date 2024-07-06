@@ -149,8 +149,11 @@ sections:
       - title: Paid Ads
         tagline: ''
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Boost your business with our expert paid ad services across multiple
+          platforms. We specialize in Facebook, Search (Google & Bing), Native,
+          and Display ads, ensuring your message reaches the right audience at
+          the right time for maximum impact.
         image:
           url: /images/paid1.png
           altText: Placeholder Image
