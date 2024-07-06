@@ -175,7 +175,7 @@ sections:
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/seo1.png
           altText: Placeholder image
           styles:
             self:
