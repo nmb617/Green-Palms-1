@@ -57,7 +57,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item One
+        title: Expertise and Services
         tagline: ''
         subtitle: ''
         text: |
