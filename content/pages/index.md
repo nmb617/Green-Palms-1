@@ -33,7 +33,6 @@ sections:
         self:
           textAlign: center
           fontWeight: 700
-          textDecoration: underline
       type: TitleBlock
     subtitle: ''
     items:
