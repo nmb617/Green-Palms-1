@@ -7,7 +7,7 @@ sections:
       text: We Are Green Palms Inc
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Marketing Experts For Your Business
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
