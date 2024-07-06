@@ -39,7 +39,7 @@ sections:
       - type: FeaturedItem
         title: Our Mission
         tagline: ''
-        subtitle: ''
+        subtitle: Increase Your Profits
         text: >
           At Green Palms, we specialize in crafting high-impact marketing
           strategies that transform businesses. Whether it's leveraging the
