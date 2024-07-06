@@ -123,7 +123,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: 'We can help, no matter what your business need is.'
+    subtitle: ''
     items:
       - title: Paid Traffic
         tagline: ''
